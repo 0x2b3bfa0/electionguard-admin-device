@@ -23,7 +23,7 @@ This project was bootstrapped with
 This project can be run in two configurations.
 
 1. Full Hardware Demo
-   - **OS:** Linux (Unbuntu)
+   - **OS:** Linux (Ubuntu)
    - **Hardware:** Card reader, smart card, and usb stick
    - **Reference Implementation APIs:**
      - [Usb stick Api](https://github.com/InfernoRed/module-usbstick)
